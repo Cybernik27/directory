@@ -5,4 +5,5 @@
   "funkfeuer" : "http://funkfeuer.at/flons-api.json",
   "hubs": "https://hubs.net.uk/misc/flons.json",
   "ninux" : "http://wiki.ninux.org/FLONS?action=AttachFile&do=get&target=flons-api.json"
+  "Surf-Kamptal" : "https:/support.surf-kamptal.at/Surf.Kamptal-api.json"
 }
